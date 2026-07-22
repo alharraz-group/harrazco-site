@@ -79,7 +79,7 @@ const branches = [
     name: 'فرع بورتسودان', tag: 'المقر الرئيسي',
     address: 'سوق بورتسودان الكبير، تقاطع البلدية والشرق، السودان.',
     phone: '+249 112 705 718', hours: 'السبت - الخميس: 8:00 ص - 4:00 م',
-    maps: 'https://maps.app.goo.gl/BYkaZKm7cdKBqGDN6',
+    maps: 'https://maps.app.goo.gl/Yh5tK4hNyY8USjhN7',
     embed: 'https://maps.google.com/maps?q=Port%20Sudan,%20Sudan&t=&z=13&ie=UTF8&iwloc=&output=embed'
   },
   {
