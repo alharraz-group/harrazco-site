@@ -267,9 +267,9 @@ function Contact({ selectedService, onSubmitted }) {
     <motion.div className="contact-info" initial={{ opacity: 0, x: 18 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
       <span className="eyebrow light"><MessageCircle size={16} /> تواصل معنا اليوم</span><h2>لنبدأ حديثاً يصنع <i>الفرق.</i></h2><p>سواء كنت تخطط لرحلة حج أو عمرة، تبحث عن فرصة توظيفية، أو تريد استشارة عقارية — نحن هنا لمساعدتك.</p>
       <div className="contact-list">
-        <a href="https://maps.app.goo.gl/BYkaZKm7cdKBqGDN6" target="_blank" rel="noreferrer"><span><MapPin /></span><div><small>العنوان الرئيسي</small><b>بورتسودان، جمهورية السودان</b></div></a>
+        <a href="https://maps.app.goo.gl/Yh5tK4hNyY8USjhN7" target="_blank" rel="noreferrer"><span><MapPin /></span><div><small>العنوان الرئيسي</small><b>بورتسودان، جمهورية السودان</b></div></a>
         <a className="numbers" href="tel:+249112705718"><span><Phone /></span><div><small>اتصل بفريق المبيعات</small><b dir="ltr">+249 112 705 718</b><b dir="ltr">+249 900 740 729</b></div></a>
-        <a href="mailto:contact@alharrazgroup.com"><span><Mail /></span><div><small>البريد الإلكتروني المعتمد</small><b dir="ltr">contact@alharrazgroup.com</b></div></a>
+        <a href="alharrazgroup@gmail.com"><span><Mail /></span><div><small>البريد الإلكتروني المعتمد</small><b dir="ltr">alharrazgroup@gmail.com</b></div></a>
       </div>
       <a className="whatsapp-link" href={WHATSAPP} target="_blank" rel="noreferrer"><MessageCircle size={20} /> محادثة فورية على واتساب <ArrowLeft size={17} /></a>
       <div className="commitment"><ShieldCheck size={25} /><p><strong>التزامنا لك</strong><span>خدمة آمنة وموثوقة، ورد أولي على طلبك خلال 24 ساعة.</span></p></div>
