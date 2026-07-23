@@ -1,0 +1,22 @@
+{
+  "name": "مجموعة الحراز للخدمات المتكاملة",
+  "short_name": "الحراز",
+  "description": "السفر والسياحة، الحج والعمرة، الاستقدام، التأشيرات، والتسويق العقاري.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#073b32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
