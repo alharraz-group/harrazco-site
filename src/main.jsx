@@ -85,7 +85,7 @@ const branches = [
   {
     name: 'مكتب تنسيق الخرطوم', tag: 'مكتب التنسيق',
     address: 'شارع محمد نجيب، جنوب مركز السودان للعيون وشمال جهاز المغتربين، الخرطوم، السودان.',
-    phone: '+249 999 458 145', hours: 'السبت - الخميس: 8:00 ص - 4:00 م',
+    phone: '+249 0900 740 720', hours: 'السبت - الخميس: 8:00 ص - 4:00 م',
     maps: 'https://maps.app.goo.gl/ZJmAdWEfLijREvKeA',
     embed: 'https://maps.google.com/maps?q=Mohamed%20Najib%20Street,%20Khartoum,%20Sudan&t=&z=15&ie=UTF8&iwloc=&output=embed'
   }
@@ -268,7 +268,7 @@ function Contact({ selectedService, onSubmitted }) {
       <span className="eyebrow light"><MessageCircle size={16} /> تواصل معنا اليوم</span><h2>لنبدأ حديثاً يصنع <i>الفرق.</i></h2><p>سواء كنت تخطط لرحلة حج أو عمرة، تبحث عن فرصة توظيفية، أو تريد استشارة عقارية — نحن هنا لمساعدتك.</p>
       <div className="contact-list">
         <a href="https://maps.app.goo.gl/Yh5tK4hNyY8USjhN7" target="_blank" rel="noreferrer"><span><MapPin /></span><div><small>العنوان الرئيسي</small><b>بورتسودان، جمهورية السودان</b></div></a>
-        <a className="numbers" href="tel:+249112705718"><span><Phone /></span><div><small>اتصل بفريق المبيعات</small><b dir="ltr">+249 112 705 718</b><b dir="ltr">+249 900 740 729</b></div></a>
+        <a className="numbers" href="tel:+249112705718"><span><Phone /></span><div><small>اتصل بفريق المبيعات</small><b dir="ltr">+249 112 705 718</b><b dir="ltr">+249 0900 740 720</b></div></a>
         <a href="alharrazgroup@gmail.com"><span><Mail /></span><div><small>البريد الإلكتروني المعتمد</small><b dir="ltr">alharrazgroup@gmail.com</b></div></a>
       </div>
       <a className="whatsapp-link" href={WHATSAPP} target="_blank" rel="noreferrer"><MessageCircle size={20} /> محادثة فورية على واتساب <ArrowLeft size={17} /></a>
